@@ -35,7 +35,13 @@ The repository is organized by topics, as per the examples in the Ballerina By E
 │   ├── query_expressions/
 │   │   └── main.bal
 ├── transactions/
-│   └── transaction_basics/
+│   └── transaction_statement/
+│       └── main.bal
+│   └── check_semantics/
+│       └── main.bal
+│   └── rollback/
+│       └── main.bal
+│   └── retry_transaction_statement/
 │       └── main.bal
 ├── concurrency/
 │   ├── workers/
