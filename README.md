@@ -2,7 +2,7 @@
 Welcome to the Ballerina By Example repository! This repository contains the code examples from the official Ballerina By Example documentation.
 
 ## 📘 About
-Ballerina is this cool new programming language, optimized for integration  and cloud-native applications (Disclaimer — might be a bit biased here ;)). Ballerina comes with built-in support to address a wide range of integration needs. Do check out the official resources for more information on the available features and to set up and try out Ballerina!
+Ballerina is this cool new programming language, optimized for integration  and cloud-native applications (Disclaimer — might be a bit biased here 😊). Ballerina comes with built-in support to address a wide range of integration needs. Do check out the official resources for more information on the available features and to set up and try out Ballerina!
 
 The examples in this repository cover various features and capabilities of Ballerina, ranging from basic syntax to advanced features like transactions, query expressions, and concurrency.
 
